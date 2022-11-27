@@ -15,6 +15,11 @@ author :
   github : abhisheksingh0196
   feedburner : nil
 
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # NOTE: Replacing this next line with your own URL
 production_url : https://abhisheksingh0196.github.io/blog
 
